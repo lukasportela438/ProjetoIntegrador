@@ -1,4 +1,45 @@
-a{
-    text-decoration: none;
-    list-style-type: none;
-}
+ html {
+     background-image: url(img/background\ site.png);
+     background-blend-mode: luminosity;
+ }
+
+ header {
+     background-image: url(img/header\ jacaré.png);
+     background-size: auto;
+     background-repeat: repeat;
+     background-position: left;
+ }
+
+ footer {
+     background-image: url(img/header\ jacaré.png);
+ }
+
+ nav {
+     background-image: url(img/header\ jacaré.png);
+ }
+
+ ul {
+     list-style: square;
+     padding: 20;
+     margin: 0;
+     display: ruby;
+ }
+
+ nav li {
+     list-style: none;
+     width: 10%;
+     min-width: 100px;
+     border-radius: 5px;
+     float: left;
+     text-align: center;
+     margin: 0px 0px 0px 5px;
+ }
+nav a{text-decoration: none;}
+nav a: :hover{color: rgb(0, 0, 0);}
+ position {
+     color: rgb(0, 0, 0);
+ }
+
+ main {
+     color: white;
+ }
