@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jacaré Mecânica e Auto Peças - Especialistas em Diesel desde 1997</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="logo-container">
+                <img src="image.png" alt="Jacaré Mecânica Logo" class="logo">
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#historia">História</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <div class="hero-text">
+                <h1>Jacaré Mecânica<br><span class="highlight">Especialistas em Diesel</span></h1>
+                <p class="hero-subtitle">Tradição e excelência em mecânica pesada desde 1997</p>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number">27+</span>
+                        <span class="stat-label">Anos de experiência</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">1000+</span>
+                        <span class="stat-label">Veículos atendidos</span>
+                    </div>
+                </div>
+                <a href="#historia" class="cta-button">Conheça nossa história</a>
+            </div>
+            <div class="hero-image">
+                <img src="{8F1A74BB-D186-4FBC-9180-2C0F71D8D3AF}.png" alt="Perfil da Jacaré Mecânica" class="hero-img">
+            </div>
+        </div>
+    </section>
+    <section id="historia" class="historia">
+        <div class="container">
+            <div class="section-header">
+                <h2>Nossa História</h2>
+                <p class="section-subtitle">Uma trajetória de dedicação e paixão pela mecânica diesel</p>
+            </div>
+            
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-year">1997</div>
+                    <div class="timeline-content">
+                        <h3>O Início</h3>
+                        <p>A Jacaré Mecânica nasceu da paixão de seu fundador pela mecânica pesada. Iniciando com um pequeno galpão em Cataguases/MG, começamos atendendo caminhões e veículos diesel da região.</p>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-year">2000</div>
+                    <div class="timeline-content">
+                        <h3>Expansão dos Serviços</h3>
+                        <p>Com o crescimento da demanda, expandimos nossos serviços para incluir auto peças especializadas em diesel, tornando-nos referência na região para veículos pesados.</p>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-year">2010</div>
+                    <div class="timeline-content">
+                        <h3>Modernização</h3>
+                        <p>Investimos em equipamentos de última geração e capacitação técnica, sempre mantendo o foco na especialização em motores diesel e veículos comerciais.</p>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-year">2024</div>
+                    <div class="timeline-content">
+                        <h3>Tradição Consolidada</h3>
+                        <p>Com mais de 27 anos de história, somos hoje uma das principais referências em mecânica diesel da região, atendendo desde pequenos comerciantes até grandes frotas.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
